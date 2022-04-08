@@ -1,0 +1,16 @@
+/home/diogo/dev/POO_2022_1/Aula02Atividade/bin/Debug/net5.0/Aula02Atividade
+/home/diogo/dev/POO_2022_1/Aula02Atividade/bin/Debug/net5.0/Aula02Atividade.deps.json
+/home/diogo/dev/POO_2022_1/Aula02Atividade/bin/Debug/net5.0/Aula02Atividade.runtimeconfig.json
+/home/diogo/dev/POO_2022_1/Aula02Atividade/bin/Debug/net5.0/Aula02Atividade.runtimeconfig.dev.json
+/home/diogo/dev/POO_2022_1/Aula02Atividade/bin/Debug/net5.0/Aula02Atividade.dll
+/home/diogo/dev/POO_2022_1/Aula02Atividade/bin/Debug/net5.0/ref/Aula02Atividade.dll
+/home/diogo/dev/POO_2022_1/Aula02Atividade/bin/Debug/net5.0/Aula02Atividade.pdb
+/home/diogo/dev/POO_2022_1/Aula02Atividade/obj/Debug/net5.0/Aula02Atividade.csproj.AssemblyReference.cache
+/home/diogo/dev/POO_2022_1/Aula02Atividade/obj/Debug/net5.0/Aula02Atividade.GeneratedMSBuildEditorConfig.editorconfig
+/home/diogo/dev/POO_2022_1/Aula02Atividade/obj/Debug/net5.0/Aula02Atividade.AssemblyInfoInputs.cache
+/home/diogo/dev/POO_2022_1/Aula02Atividade/obj/Debug/net5.0/Aula02Atividade.AssemblyInfo.cs
+/home/diogo/dev/POO_2022_1/Aula02Atividade/obj/Debug/net5.0/Aula02Atividade.csproj.CoreCompileInputs.cache
+/home/diogo/dev/POO_2022_1/Aula02Atividade/obj/Debug/net5.0/Aula02Atividade.dll
+/home/diogo/dev/POO_2022_1/Aula02Atividade/obj/Debug/net5.0/ref/Aula02Atividade.dll
+/home/diogo/dev/POO_2022_1/Aula02Atividade/obj/Debug/net5.0/Aula02Atividade.pdb
+/home/diogo/dev/POO_2022_1/Aula02Atividade/obj/Debug/net5.0/Aula02Atividade.genruntimeconfig.cache
